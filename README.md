@@ -9,5 +9,5 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/martrazstiles/configure-ad.git)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/martrazstiles/Azure-Network-Protocol.git)
-<b>Permissions</b>
-[osTicket: Network File Shares and Permission] (https://github.com/martrazstiles/Network-Files-and-Promissions.git)
+- <b>Permissions</b>
+[osTicket: Network File Shares and Permission](https://github.com/martrazstiles/Network-Files-and-Promissions.git)
